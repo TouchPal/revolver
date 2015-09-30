@@ -1,0 +1,6 @@
+You can install all depends libraries into the lib directory.
+---------------------------------------------------------
+
+boost 1.57
+libev 4.20
+protobuf 2.6.1
