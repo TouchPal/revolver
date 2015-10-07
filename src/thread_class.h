@@ -41,6 +41,8 @@ public:
      */
     void stop();
 
+    inline void set_warning_queue_size(unsigned int s) {m_warning_queue_size = s;}
+
     /* Execute task in working thread. 
      * This function will return immediately after place task in queue.
      */
