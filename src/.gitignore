@@ -5,4 +5,5 @@
 *.swo
 *.pb.h
 *.pb.cc
+*_test
 .clang_complete
